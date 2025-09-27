@@ -1,4 +1,4 @@
-# EXP3-Dlatch
+# EXP3-Dflip flop
 
 ## Ex No: 03 - Implementation & Analysis of D Flip-Flop using Cadence EDA Tools
 
